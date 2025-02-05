@@ -10,6 +10,7 @@
 <!--add links-->
 
 <!--about me-->
+---
 <h2>&nbsp;About Me and My Interests!</h2>
 
 <!--skills and tech stack-->
