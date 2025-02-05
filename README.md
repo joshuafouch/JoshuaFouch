@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Salve%20Mundus!&textBg=false&animation=fadeIn&stroke=00000&section=header&desc=Welcome%20to%20my%20Github%20page!&descAlign=39&descAlignY=59&strokeWidth=2&descSize=23&fontAlign=50&fontAlignY=43"/>
 </p>
 
-<a href="https://www.instagram.com/thepiyushmalhotra/">
+<a align="center" href="https://www.instagram.com/thepiyushmalhotra/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
 
