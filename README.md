@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to Joshua Fouch's GitHub Page!
 
 <!--
 **JoshuaFouch/JoshuaFouch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
