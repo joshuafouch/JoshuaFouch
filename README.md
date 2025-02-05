@@ -6,11 +6,11 @@
   Omnia ad Jesum per Mariam!
 </h1>
 
----
 <!--add links-->
 
-<!--about me-->
 ---
+
+<!--about me-->
 <h2>&nbsp;About Me and My Interests!</h2>
 
 <!--skills and tech stack-->
