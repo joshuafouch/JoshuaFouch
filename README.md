@@ -5,13 +5,11 @@
 <h1 align="center">
   Omnia ad Jesum per Mariam!
 </h1>
-
-<!--add links-->
-
 ---
 
 <!--about me-->
-<h2>&nbsp;About Me and My Interests!</h2>
+<h2>&nbsp;About Me</h2>
+
 
 <!--skills and tech stack-->
 <h2> &nbsp;Some Tools I Have Used and Learned</h2>
