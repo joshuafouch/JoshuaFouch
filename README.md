@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=115&color=gradient&text=Joshua%20Fouch&textBg=false&animation=fadeIn&stroke=00000&section=header&descAlign=39&descAlignY=59&strokeWidth=2&fontAlign=50&fontAlignY=43&fontSize=60"/>
 </p>
 
-<h2 align="center" style="border-bottom": none>
+<p align="center" style="font-size: 2em; font-weight: bold;">
   Omnia ad Jesum per Mariam!
-</h2>
+</p>
 
 ---
 
