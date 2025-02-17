@@ -11,6 +11,8 @@
 <!--about me-->
 ### 👨‍💻 &nbsp;About Me :
 
+I am a undergraduate studying Computer Science at Franciscan University of Steubenville, Ohio.
+
 
 <!--skills and tech stack-->
 ### 🧰 &nbsp;My Language and Tool Stack :
