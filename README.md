@@ -12,7 +12,22 @@
 ### 👨‍💻 &nbsp;About Me :
 
 I am an undergraduate studying Computer Science at Franciscan University of Steubenville, Ohio.
+- I enjoy programming, creating software, and web development!
+- I love to play the guitar, piano, and read books in my free time
 
+---
+
+<!--contacts-->
+### ☎️ &nbsp;Contact Me :
+
+Contact me from:
+- <a href="https://www.linkedin.com/in/joshua-fouch12/">LinkedIn</a>
+
+---
 
 <!--skills and tech stack-->
 ### 🧰 &nbsp;My Language and Tool Stack :
+
+<p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp;
+</p>
