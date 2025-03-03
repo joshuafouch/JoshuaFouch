@@ -13,7 +13,7 @@
 
 I am an undergraduate studying Computer Science at Franciscan University of Steubenville, Ohio.
 - I enjoy programming, creating software, and web development!
-- I love to play the guitar, piano, and read books in my free time
+- I love to play the guitar, piano, read books, play video games, and (sometimes) produce music!
 
 ---
 
