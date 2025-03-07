@@ -11,7 +11,7 @@
 <!--about me-->
 ### 👨‍💻 &nbsp;About Me :
 
-I am an undergraduate studying Computer Science at Franciscan University of Steubenville, Ohio.
+- I am an undergraduate studying Computer Science at Franciscan University of Steubenville, Ohio.
 
 ---
 
