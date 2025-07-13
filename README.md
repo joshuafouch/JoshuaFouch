@@ -1,4 +1,3 @@
----
 # Joshua Angelo Fouch
 
 <!--about me-->
