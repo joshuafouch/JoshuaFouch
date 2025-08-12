@@ -7,5 +7,3 @@
 - I like Cybersecurity, currently minoring in it.
 - Faithful Catholic
 - That's about it
-
----
