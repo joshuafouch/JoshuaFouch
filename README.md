@@ -8,10 +8,4 @@
 - Faithful Catholic
 - That's about it
 
-<!--contacts-->
-### &nbsp;Contact Me :
-
-- <a href="https://www.linkedin.com/in/joshua-fouch12/">LinkedIn</a>
-- <a href="https://joshuafouch.vercel.app/">Website Portfolio</a>
-
 ---
